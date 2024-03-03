@@ -1,0 +1,67 @@
+.container-fluid {
+    background-color: lightblue;
+    color: white;
+}
+.banner img{
+    width: 100%;
+}
+.nav-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}
+.info-theme {
+    width: 50%;
+    margin: 0 5%;
+}
+.info-theme img {
+    width: 100%;
+}
+.info-bicyle {
+    width: 50%;
+    margin: 0 5%;
+}
+.info-bicyle img {
+    width: 100%;
+}
+.price {
+    background-color: aqua;
+    height: 30px;
+    line-height: 30px;
+    font-weight: bolder;
+    width: 50%;
+    margin: 0 25%;
+}
+.xepho p{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    line-height: 30px;
+}
+.xepho {
+    background-color: azure;
+    width: fit-content;
+}
+.xepho .price {
+    display: flex;
+    justify-content: space-evenly;
+}
+.price a{
+  text-decoration: none;
+  color: white;
+  background-color: red;
+  line-height: 30px;
+}
+footer{
+ background-image: url(/Image/footer.jpg);
+ height: fit-content;
+ width: 100%;
+}
+footer{
+    width: 100%;
+    height: 100%;
+}
+.foot-info {
+    line-height: 50px;
+}
